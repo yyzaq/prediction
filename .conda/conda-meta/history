@@ -1,0 +1,21 @@
+==> 2025-11-04 16:57:56 <==
+# cmd: /Users/user/miniconda3/lib/python3.12/site-packages/conda/__main__.py create --yes --prefix .conda python=3.11
+# conda version: 24.11.3
++defaults/noarch::pip-25.2-pyhc872135_1
++defaults/noarch::tzdata-2025b-h04d1e81_0
++defaults/osx-64::bzip2-1.0.8-h6c40b1e_6
++defaults/osx-64::ca-certificates-2025.7.15-hecd8cb5_0
++defaults/osx-64::expat-2.7.1-h6d0c2b6_0
++defaults/osx-64::libcxx-19.1.7-haebbb44_3
++defaults/osx-64::libffi-3.4.4-hecd8cb5_1
++defaults/osx-64::ncurses-6.5-h923df54_0
++defaults/osx-64::openssl-3.0.17-hee2dfae_0
++defaults/osx-64::python-3.11.13-hbff2529_0
++defaults/osx-64::readline-8.3-h49f2429_0
++defaults/osx-64::setuptools-78.1.1-py311hecd8cb5_0
++defaults/osx-64::sqlite-3.50.2-hc8b0dd6_1
++defaults/osx-64::tk-8.6.15-h3a5a201_0
++defaults/osx-64::wheel-0.45.1-py311hecd8cb5_0
++defaults/osx-64::xz-5.6.4-h46256e1_1
++defaults/osx-64::zlib-1.2.13-h4b97444_1
+# update specs: ['python=3.11']

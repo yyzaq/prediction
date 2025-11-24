@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 from math import sqrt
 
 CONFIG = {
-    "FEAT_PATH": "/Users/user/Desktop/股价/eth_15min_features.csv",
+    "FEAT_PATH": "/Users/user/Desktop/prediction/eth_15min_features.csv",
     "TIME_COL": "timestamp",
 
     "SMA_SHORT": 10,
@@ -44,7 +44,7 @@ CONFIG = {
     "FEE_RATE": 0.001,
     "DD_PENALTY": 0.1,
     "OBS_WIN": 60,
-    "PPO_TIMESTEPS": 500_000,
+    "PPO_TIMESTEPS": 100_000,
     "PPO_LR": 3e-4,
     "GAMMA": 0.99,
     "N_STEPS": 2048,
